@@ -1,5 +1,7 @@
 {
   "resources": [
+    {"id":{"name":"spr_popTanuki_Mimi","path":"sprites/spr_popTanuki_Mimi/spr_popTanuki_Mimi.yy",},"order":1,},
+    {"id":{"name":"spr_popTanuki","path":"sprites/spr_popTanuki/spr_popTanuki.yy",},"order":2,},
     {"id":{"name":"spr_pop","path":"sprites/spr_pop/spr_pop.yy",},"order":0,},
     {"id":{"name":"ルーム1","path":"rooms/ルーム1/ルーム1.yy",},"order":0,},
   ],
