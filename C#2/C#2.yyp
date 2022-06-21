@@ -1,7 +1,5 @@
 {
   "resources": [
-    {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},"order":0,},
-    {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},"order":1,},
     {"id":{"name":"ルーム1","path":"rooms/ルーム1/ルーム1.yy",},"order":0,},
   ],
   "Options": [
