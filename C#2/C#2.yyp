@@ -1,5 +1,8 @@
 {
   "resources": [
+    {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},"order":0,},
+    {"id":{"name":"spr_Ttest","path":"sprites/spr_Ttest/spr_Ttest.yy",},"order":0,},
+    {"id":{"name":"rm_Ttest","path":"rooms/rm_Ttest/rm_Ttest.yy",},"order":1,},
     {"id":{"name":"ルーム1","path":"rooms/ルーム1/ルーム1.yy",},"order":0,},
   ],
   "Options": [
@@ -14,6 +17,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"rm_Ttest","path":"rooms/rm_Ttest/rm_Ttest.yy",},},
     {"roomId":{"name":"ルーム1","path":"rooms/ルーム1/ルーム1.yy",},},
   ],
   "Folders": [
@@ -40,7 +44,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2022.5.1.16",
+    "IDEVersion": "2022.5.0.8",
   },
   "resourceVersion": "1.5",
   "name": "C#2",
