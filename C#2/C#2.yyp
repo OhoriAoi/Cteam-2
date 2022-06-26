@@ -4,6 +4,7 @@
     {"id":{"name":"spr_popTanuki","path":"sprites/spr_popTanuki/spr_popTanuki.yy",},"order":2,},
     {"id":{"name":"spr_arm","path":"sprites/spr_arm/spr_arm.yy",},"order":3,},
     {"id":{"name":"spr_pop","path":"sprites/spr_pop/spr_pop.yy",},"order":0,},
+    {"id":{"name":"spr_container_empty","path":"sprites/spr_container_empty/spr_container_empty.yy",},"order":4,},
     {"id":{"name":"ルーム1","path":"rooms/ルーム1/ルーム1.yy",},"order":0,},
   ],
   "Options": [
