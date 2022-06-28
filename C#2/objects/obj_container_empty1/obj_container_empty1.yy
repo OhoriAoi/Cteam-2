@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_container_empty",
-    "path": "sprites/spr_container_empty/spr_container_empty.yy",
+    "name": "spr_container_empty1",
+    "path": "sprites/spr_container_empty1/spr_container_empty1.yy",
   },
   "solid": false,
   "visible": true,
@@ -34,7 +34,7 @@
     "path": "folders/オブジェクト.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_container_empty",
+  "name": "obj_container_empty1",
   "tags": [],
   "resourceType": "GMObject",
 }
