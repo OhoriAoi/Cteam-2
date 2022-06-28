@@ -10,14 +10,14 @@ else speed = 0;
 
 if (r == 1)
 {
-	if(image_angle >= 0 && image_angle <= 180 || image_angle <= 0)
+	if(image_angle >= 0 && image_angle <= 180 || image_angle >= 180)
 	{
 		image_angle += sin(degtorad(point - image_angle)) * rspeed;
 	}
 }
 else
 {
-	if(image_angle >= 0 && image_angle <= 180 || image_angle >= 180)
+	if(image_angle >= 0 && image_angle <= 180 || image_angle <= 0)
 	{
 		image_angle += sin(degtorad(point - image_angle)) * rspeed;
 	}
