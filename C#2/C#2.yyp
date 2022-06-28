@@ -1,11 +1,8 @@
 {
   "resources": [
-<<<<<<< HEAD
-    {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},"order":0,},
-    {"id":{"name":"spr_Ttest","path":"sprites/spr_Ttest/spr_Ttest.yy",},"order":0,},
-    {"id":{"name":"rm_Ttest","path":"rooms/rm_Ttest/rm_Ttest.yy",},"order":1,},
-    {"id":{"name":"ルーム1","path":"rooms/ルーム1/ルーム1.yy",},"order":0,},
+
 =======
+    {"id":{"name":"obj_popcorn","path":"objects/obj_popcorn/obj_popcorn.yy",},"order":1,},
     {"id":{"name":"spr_popTanuki_Mimi","path":"sprites/spr_popTanuki_Mimi/spr_popTanuki_Mimi.yy",},"order":1,},
     {"id":{"name":"obj_arm","path":"objects/obj_arm/obj_arm.yy",},"order":0,},
     {"id":{"name":"spr_popTanuki","path":"sprites/spr_popTanuki/spr_popTanuki.yy",},"order":2,},
@@ -17,9 +14,7 @@
     {"id":{"name":"obj_game","path":"objects/obj_game/obj_game.yy",},"order":0,},
     {"id":{"name":"rm_start","path":"rooms/rm_start/rm_start.yy",},"order":1,},
     {"id":{"name":"spr_pop","path":"sprites/spr_pop/spr_pop.yy",},"order":0,},
-
     {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},"order":0,},
->>>>>>> 6dabe23d902e29e8afe4ea419240ae2e17b98c7e
   ],
   "Options": [
     {"name":"Main","path":"options/main/options_main.yy",},
@@ -33,12 +28,15 @@
     "children": [],
   },
   "RoomOrderNodes": [
-<<<<<<< HEAD
+    
     {"roomId":{"name":"rm_Ttest","path":"rooms/rm_Ttest/rm_Ttest.yy",},},
     {"roomId":{"name":"ルーム1","path":"rooms/ルーム1/ルーム1.yy",},},
 =======
 
->>>>>>> 6dabe23d902e29e8afe4ea419240ae2e17b98c7e
+=======
+    {"roomId":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
+    {"roomId":{"name":"rm_result","path":"rooms/rm_result/rm_result.yy",},},
+    {"roomId":{"name":"rm_start","path":"rooms/rm_start/rm_start.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/スプライト.yy","order":1,"resourceVersion":"1.0","name":"スプライト","tags":[],"resourceType":"GMFolder",},
