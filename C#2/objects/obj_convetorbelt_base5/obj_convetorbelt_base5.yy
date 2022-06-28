@@ -29,7 +29,7 @@
     "path": "folders/オブジェクト.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_convetorBelt_base",
+  "name": "obj_convetorBelt_base5",
   "tags": [],
   "resourceType": "GMObject",
 }
