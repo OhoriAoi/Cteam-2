@@ -29,7 +29,7 @@
     "path": "folders/オブジェクト.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_background",
+  "name": "obj_background_game",
   "tags": [],
   "resourceType": "GMObject",
 }
