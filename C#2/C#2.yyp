@@ -1,5 +1,7 @@
 {
   "resources": [
+
+=======
     {"id":{"name":"obj_popcorn","path":"objects/obj_popcorn/obj_popcorn.yy",},"order":1,},
     {"id":{"name":"spr_popTanuki_Mimi","path":"sprites/spr_popTanuki_Mimi/spr_popTanuki_Mimi.yy",},"order":1,},
     {"id":{"name":"obj_arm","path":"objects/obj_arm/obj_arm.yy",},"order":0,},
@@ -26,6 +28,12 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    
+    {"roomId":{"name":"rm_Ttest","path":"rooms/rm_Ttest/rm_Ttest.yy",},},
+    {"roomId":{"name":"ルーム1","path":"rooms/ルーム1/ルーム1.yy",},},
+=======
+
+=======
     {"roomId":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
     {"roomId":{"name":"rm_result","path":"rooms/rm_result/rm_result.yy",},},
     {"roomId":{"name":"rm_start","path":"rooms/rm_start/rm_start.yy",},},
@@ -54,7 +62,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2022.5.1.16",
+    "IDEVersion": "2022.5.0.8",
   },
   "resourceVersion": "1.5",
   "name": "C#2",
