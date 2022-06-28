@@ -7,15 +7,15 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 17,
-  "bbox_right": 61,
-  "bbox_top": 18,
-  "bbox_bottom": 47,
+  "bbox_left": 13,
+  "bbox_right": 114,
+  "bbox_top": 12,
+  "bbox_bottom": 111,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 64,
-  "height": 64,
+  "width": 128,
+  "height": 128,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"94a11ff1-8298-4146-8801-137a951e2588","path":"sprites/spr_popTanuki_Mimi/spr_popTanuki_Mimi.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"94a11ff1-8298-4146-8801-137a951e2588","path":"sprites/spr_popTanuki_Mimi/spr_popTanuki_Mimi.yy",},"LayerId":{"name":"46caca86-30cc-4b56-9d3a-ee426ffe5502","path":"sprites/spr_popTanuki_Mimi/spr_popTanuki_Mimi.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_popTanuki_Mimi","path":"sprites/spr_popTanuki_Mimi/spr_popTanuki_Mimi.yy",},"resourceVersion":"1.0","name":"94a11ff1-8298-4146-8801-137a951e2588","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"c84b896d-b079-49c9-9532-0f568e20d468","path":"sprites/spr_test/spr_test.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"c84b896d-b079-49c9-9532-0f568e20d468","path":"sprites/spr_test/spr_test.yy",},"LayerId":{"name":"af545630-0fd3-4e32-b1b9-0e2ec6c6bbc7","path":"sprites/spr_test/spr_test.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_test","path":"sprites/spr_test/spr_test.yy",},"resourceVersion":"1.0","name":"c84b896d-b079-49c9-9532-0f568e20d468","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_popTanuki_Mimi","path":"sprites/spr_popTanuki_Mimi/spr_popTanuki_Mimi.yy",},
+    "spriteId": {"name":"spr_test","path":"sprites/spr_test/spr_test.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"4c97f0d0-68bb-4acf-9389-71a68878ff5f","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"94a11ff1-8298-4146-8801-137a951e2588","path":"sprites/spr_popTanuki_Mimi/spr_popTanuki_Mimi.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"9cca20d8-7b91-4d2f-9871-b44f0b74f13e","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c84b896d-b079-49c9-9532-0f568e20d468","path":"sprites/spr_test/spr_test.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -58,14 +58,14 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_popTanuki_Mimi","path":"sprites/spr_popTanuki_Mimi/spr_popTanuki_Mimi.yy",},
+    "parent": {"name":"spr_test","path":"sprites/spr_test/spr_test.yy",},
     "resourceVersion": "1.4",
-    "name": "spr_popTanuki_Mimi",
+    "name": "spr_test",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"46caca86-30cc-4b56-9d3a-ee426ffe5502","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"af545630-0fd3-4e32-b1b9-0e2ec6c6bbc7","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
@@ -73,7 +73,7 @@
     "path": "folders/スプライト.yy",
   },
   "resourceVersion": "1.0",
-  "name": "spr_popTanuki_Mimi",
+  "name": "spr_test",
   "tags": [],
   "resourceType": "GMSprite",
 }
