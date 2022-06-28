@@ -3,7 +3,6 @@
     {"id":{"name":"obj_popcorn","path":"objects/obj_popcorn/obj_popcorn.yy",},"order":1,},
     {"id":{"name":"obj_conveyorBelt_base","path":"objects/obj_conveyorBelt_base/obj_conveyorBelt_base.yy",},"order":2,},
     {"id":{"name":"spr_popTanuki_Mimi","path":"sprites/spr_popTanuki_Mimi/spr_popTanuki_Mimi.yy",},"order":1,},
-    {"id":{"name":"spr_container_empty","path":"sprites/spr_container_empty/spr_container_empty.yy",},"order":8,},
     {"id":{"name":"obj_arm","path":"objects/obj_arm/obj_arm.yy",},"order":0,},
     {"id":{"name":"spr_popTanuki","path":"sprites/spr_popTanuki/spr_popTanuki.yy",},"order":2,},
     {"id":{"name":"spr_conveyorBelt_base","path":"sprites/spr_conveyorBelt_base/spr_conveyorBelt_base.yy",},"order":6,},
