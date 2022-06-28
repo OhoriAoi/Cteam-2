@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_pop",
-    "path": "sprites/spr_pop/spr_pop.yy",
+    "name": "spr_wall",
+    "path": "sprites/spr_wall/spr_wall.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,10 +21,7 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":true,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -32,7 +29,7 @@
     "path": "folders/オブジェクト.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_popcorn",
+  "name": "obj_background_game",
   "tags": [],
   "resourceType": "GMObject",
 }
