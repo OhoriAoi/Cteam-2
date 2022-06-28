@@ -15,6 +15,13 @@
   "layers": [
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_arm","path":"objects/obj_arm/obj_arm.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":672.0,"y":416.0,"resourceVersion":"1.0","name":"inst_5F50E696","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_popcorn","path":"objects/obj_popcorn/obj_popcorn.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1056.0,"y":512.0,"resourceVersion":"1.0","name":"inst_125E2F80","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_popTanuki","path":"objects/obj_popTanuki/obj_popTanuki.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1152.0,"y":512.0,"resourceVersion":"1.0","name":"inst_5D5EA05B","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_popcorn","path":"objects/obj_popcorn/obj_popcorn.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1376.0,"y":512.0,"resourceVersion":"1.0","name":"inst_15673CBB","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_popTanuki","path":"objects/obj_popTanuki/obj_popTanuki.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1568.0,"y":512.0,"resourceVersion":"1.0","name":"inst_2BF4C132","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_popcorn","path":"objects/obj_popcorn/obj_popcorn.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1696.0,"y":512.0,"resourceVersion":"1.0","name":"inst_683FB1B6","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_popTanuki","path":"objects/obj_popTanuki/obj_popTanuki.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1824.0,"y":512.0,"resourceVersion":"1.0","name":"inst_3BAC91F9","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_popcorn","path":"objects/obj_popcorn/obj_popcorn.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1984.0,"y":512.0,"resourceVersion":"1.0","name":"inst_5F8E3D1E","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],"resourceVersion":"1.0","name":"Instances_1","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_conveyorBelt_movingPart","path":"objects/obj_conveyorBelt_movingPart/obj_conveyorBelt_movingPart.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":512.0,"resourceVersion":"1.0","name":"inst_454C1326","tags":[],"resourceType":"GMRInstance",},
@@ -31,6 +38,13 @@
     {"name":"inst_454C1326","path":"rooms/rm_game/rm_game.yy",},
     {"name":"inst_33AD8A75","path":"rooms/rm_game/rm_game.yy",},
     {"name":"inst_778C06E4","path":"rooms/rm_game/rm_game.yy",},
+    {"name":"inst_125E2F80","path":"rooms/rm_game/rm_game.yy",},
+    {"name":"inst_5D5EA05B","path":"rooms/rm_game/rm_game.yy",},
+    {"name":"inst_15673CBB","path":"rooms/rm_game/rm_game.yy",},
+    {"name":"inst_2BF4C132","path":"rooms/rm_game/rm_game.yy",},
+    {"name":"inst_683FB1B6","path":"rooms/rm_game/rm_game.yy",},
+    {"name":"inst_3BAC91F9","path":"rooms/rm_game/rm_game.yy",},
+    {"name":"inst_5F8E3D1E","path":"rooms/rm_game/rm_game.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

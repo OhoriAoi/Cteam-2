@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_pop",
-    "path": "sprites/spr_pop/spr_pop.yy",
+    "name": "spr_popTanuki",
+    "path": "sprites/spr_popTanuki/spr_popTanuki.yy",
   },
   "solid": false,
   "visible": true,
@@ -32,7 +32,7 @@
     "path": "folders/オブジェクト.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_popcorn",
+  "name": "obj_popTanuki",
   "tags": [],
   "resourceType": "GMObject",
 }

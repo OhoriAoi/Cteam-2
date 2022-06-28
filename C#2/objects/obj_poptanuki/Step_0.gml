@@ -33,7 +33,7 @@ if(x <= -sprite_width/2)
 	
 		/// @DnDAction : YoYo Games.Instances.Destroy_Instance
 		/// @DnDVersion : 1
-		/// @DnDHash : 7FD85B81
+		/// @DnDHash : 414BE9D9
 		/// @DnDParent : 65D92504
 		instance_destroy();
 	}
@@ -53,6 +53,7 @@ if(x <= -sprite_width/2)
 		/// @DnDArgument : "ypos_relative" "1"
 		/// @DnDArgument : "objectid" "obj_popTanuki"
 		/// @DnDArgument : "layer" ""Instances_1""
+		/// @DnDSaveInfo : "objectid" "obj_popTanuki"
 		instance_create_layer(x + room_width+sprite_width, y + 0, "Instances_1", obj_popTanuki);
 	
 		/// @DnDAction : YoYo Games.Instances.Destroy_Instance
