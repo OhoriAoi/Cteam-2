@@ -22,6 +22,7 @@
     {"id":{"name":"spr_contaner_half","path":"sprites/spr_contaner_half/spr_contaner_half.yy",},"order":12,},
     {"id":{"name":"rm_start","path":"rooms/rm_start/rm_start.yy",},"order":1,},
     {"id":{"name":"spr_pop","path":"sprites/spr_pop/spr_pop.yy",},"order":0,},
+    {"id":{"name":"spr_arm_half","path":"sprites/spr_arm_half/spr_arm_half.yy",},"order":14,},
     {"id":{"name":"spr_contaner_full","path":"sprites/spr_contaner_full/spr_contaner_full.yy",},"order":13,},
     {"id":{"name":"spr_popTanuki_Pop","path":"sprites/spr_popTanuki_Pop/spr_popTanuki_Pop.yy",},"order":10,},
     {"id":{"name":"spr_pop2","path":"sprites/spr_pop2/spr_pop2.yy",},"order":7,},
