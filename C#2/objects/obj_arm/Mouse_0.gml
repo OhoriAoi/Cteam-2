@@ -3,3 +3,4 @@
 
 point = image_angle - 90; 
 r = 1;
+s = 0;

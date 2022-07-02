@@ -1,1 +1,1 @@
-cupS = 100;
+//global.cupS = 5;
