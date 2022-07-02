@@ -8,7 +8,7 @@ if point_distance(x, y, mouse_x, mouse_y) > room_speed
 else speed = 0;
 
 
-if (r == 1)
+if (r = 1)
 {
 	if(image_angle >= 0 && image_angle <= 180 || image_angle >= 180)
 	{
