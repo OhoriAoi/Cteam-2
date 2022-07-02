@@ -1,7 +1,7 @@
-if (global.cupS + global.decrease = 5)
+if (cup + tanuki = 5)
 {
-	score += (global.cupS - global.decrease) * 100;
-	global.cupS = 0;
-	global.decrease = 0;
+	score += (cup - tanuki) * 100;
+	cup = 0;
+	tanuki = 0;
 	speed = 3
 }
