@@ -22,3 +22,17 @@ else
 		image_angle += sin(degtorad(point - image_angle)) * rspeed;
 	}
 }
+
+if(global.cupS + global.decrease = 0)
+{
+	sprite_index = spr_arm;
+}
+else if(global.cupS + global.decrease = 1 or
+		global.cupS + global.decrease = 2)
+{
+	sprite_index = spr_arm_half;
+}
+else if(global.cupS + global.decrease = 3)
+{
+	sprite_index = spr_arm_full;
+}

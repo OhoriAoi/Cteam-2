@@ -26,9 +26,7 @@ switch (room)
 
 case rm_game: 
     var c = c_red;
-    draw_text_transformed_colour(10, 2,"ポップコーン:" + string(global.cupS), 1, 1, 0, c, c, c, c, 1);
-	draw_text_transformed_colour(10, 16,"　　　たぬき:" + string(global.decrease), 1, 1, 0, c, c, c, c, 1);
-	draw_text_transformed_colour(10, 30,"　　　スコア:" + string(score), 1, 1, 0, c, c, c, c, 1);
+	draw_text_transformed_colour(10, 2,"SCORE:" + string(score), 1, 1, 0, c, c, c, c, 1);
     break; 
 
 case rm_result: 
