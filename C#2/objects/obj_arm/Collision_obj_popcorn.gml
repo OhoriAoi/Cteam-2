@@ -1,6 +1,6 @@
 /// @description 説明をここに挿入
 // このエディターでコードを作成することができます
-if(!(global.cupS + global.decrease = 5))
+if(!(global.cupS + global.decrease = 3))
 {
 	if(mouse_check_button(mb_left))
 	{

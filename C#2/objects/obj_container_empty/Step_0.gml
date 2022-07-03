@@ -1,4 +1,4 @@
-if (cup + tanuki = 5)
+if (cup + tanuki = 3)
 {
 	score += (cup - tanuki) * 100;
 	cup = 0;
