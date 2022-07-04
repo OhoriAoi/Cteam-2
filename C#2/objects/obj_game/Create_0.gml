@@ -3,6 +3,6 @@
 
 global.cupS = 0;
 global.decrease = 0;
-timer = 60;
+timer = 10;
 
 draw_set_font(fnt_text);
