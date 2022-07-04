@@ -6,3 +6,6 @@ tanuki = 0;
 
 speed = 0;
 direction = 180;
+
+//スプライト用変数
+cup_in = 0;
