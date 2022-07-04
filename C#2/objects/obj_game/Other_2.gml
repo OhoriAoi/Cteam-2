@@ -2,5 +2,5 @@
 // You can write your code in this editor
 if(room == rm_game){
 alarm[0] = 60;
-timer = 10;
+timer = 60;
 } 
