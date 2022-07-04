@@ -13,10 +13,20 @@ switch(room)
         game_restart(); 
         break; 
     } 
-} 
+}
+
+if room == rm_start
+{
+	score = 0;
+}
 
 if room == rm_game 
 {
+	timer -= 1/room_speed
+	if(timer <= 0)
+	{
+		room_goto(rm_result);
+	}
 //if(lives<=0){
 //room_goto(rm_result);	 
 //} 
