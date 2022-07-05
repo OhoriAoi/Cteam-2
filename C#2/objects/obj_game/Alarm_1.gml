@@ -10,5 +10,5 @@ if (room = rm_game) {
 	{
 		instance_create_layer(x + room_width+sprite_width, 480, "Instances_1", obj_popTanuki);
 	}
+	self.alarm[1] = room_speed * 5
 }
-self.alarm[1] = room_speed * 5
