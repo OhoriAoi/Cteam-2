@@ -5,3 +5,5 @@ if (cup + tanuki = 3)
 	tanuki = 0;
 	speed = 3
 }
+
+//ここに追加
