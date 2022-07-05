@@ -6,7 +6,7 @@ switch (room)
 	case rm_start: 
 	draw_set_halign(fa_center); 
     var c = c_maroon; 
-    draw_text_transformed_colour(room_width / 2, 150, "ポップコーン工場(仮)", 4, 4, 0, c, c, c, c, 1); 
+    draw_text_transformed_colour(room_width / 2, 150, "ポップコーン工場", 4, 4, 0, c, c, c, c, 1); 
     c=c_black; 
 	draw_text_transformed_colour(room_width / 2, 300, 
 
