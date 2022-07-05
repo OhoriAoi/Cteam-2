@@ -11,6 +11,7 @@
     {"id":{"name":"spr_popTanuki","path":"sprites/spr_popTanuki/spr_popTanuki.yy",},"order":2,},
     {"id":{"name":"Sprite18","path":"sprites/Sprite18/Sprite18.yy",},"order":17,},
     {"id":{"name":"spr_conveyorBelt_base","path":"sprites/spr_conveyorBelt_base/spr_conveyorBelt_base.yy",},"order":6,},
+    {"id":{"name":"obj_tanutanu","path":"objects/obj_tanutanu/obj_tanutanu.yy",},"order":7,},
     {"id":{"name":"spr_conveyorBelt_movingPart","path":"sprites/spr_conveyorBelt_movingPart/spr_conveyorBelt_movingPart.yy",},"order":5,},
     {"id":{"name":"rm_result","path":"rooms/rm_result/rm_result.yy",},"order":2,},
     {"id":{"name":"obj_container_empty","path":"objects/obj_container_empty/obj_container_empty.yy",},"order":5,},
