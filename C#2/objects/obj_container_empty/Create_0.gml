@@ -1,6 +1,3 @@
-global.cupS = 0;
-global.decrease = 0;
-
 cup = 0;
 tanuki = 0;
 cup_in = 0; 
