@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_tanutanu",
-    "path": "sprites/spr_tanutanu/spr_tanutanu.yy",
+    "name": "spr_contaner_empty",
+    "path": "sprites/spr_contaner_empty/spr_contaner_empty.yy",
   },
   "solid": false,
   "visible": true,
