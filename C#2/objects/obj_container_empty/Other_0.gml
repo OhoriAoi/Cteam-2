@@ -1,3 +1,5 @@
+score += (cup - tanuki) * 100;
+
 instance_destroy();
 cup = 0;
 tanuki = 0;

@@ -1,6 +1,5 @@
 if (cup + tanuki >= 3)
 {
-	score += (cup - tanuki) * 100;
 	speed = 3
 }
 cup_in = cup + tanuki; 
