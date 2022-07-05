@@ -4,15 +4,14 @@ if(x <= -sprite_width/2)
 
 	if(!(variable == 0))
 	{
-		instance_create_layer(x + room_width+sprite_width, y + 0, "Instances_1", obj_popcorn);
+		instance_create_layer(x + room_width+sprite_width + random_range(0, sprite_width), y + 0, "Instances_1", obj_popcorn);
 		instance_destroy();
 	}
 
 	else
 	{
-		instance_create_layer(x + room_width+sprite_width, y + 0, "Instances_1", obj_popTanuki);
+		instance_create_layer(x + room_width+sprite_width + random_range(0, sprite_width), y + 0, "Instances_1", obj_popTanuki);
 		instance_destroy();
 	}
-
-	show_debug_message(string(variable));
+	
 }
