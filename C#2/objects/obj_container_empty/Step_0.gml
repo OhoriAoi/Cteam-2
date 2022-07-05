@@ -1,4 +1,4 @@
-if (cup + tanuki = 3)
+if (cup + tanuki >= 3)
 {
 	score += (cup - tanuki) * 100;
 	speed = 3
@@ -39,7 +39,7 @@ switch(cup_in)
 
 	default: 
 
-	obj_container_empty.sprite_index = spr_tanutanu; 
+	obj_container_empty.sprite_index = spr_contaner_half; 
 
 	break; 
 
